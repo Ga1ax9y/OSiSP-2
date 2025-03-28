@@ -1,0 +1,6 @@
+Apple,10,50
+Banana,5,30
+Apple,15,50
+Apple,11,24
+Orange,20,40
+Banana,10,30

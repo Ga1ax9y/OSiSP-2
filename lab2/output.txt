@@ -1,0 +1,3 @@
+Orange 20 800
+Banana 15 450
+Apple 36 1514
